@@ -1,2 +1,6 @@
 # Hello-Word
-你好，世界
+你好，word
+int main()
+{
+  add();
+}
