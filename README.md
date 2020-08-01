@@ -1,6 +1,7 @@
-# Hello-Word
-你好，word
 int main()
 {
   add();
+
+  printf（"hello-word\n"）;
+
 }
